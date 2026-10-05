@@ -1,1 +1,3 @@
-<p>`<p>`hola`</p>`</p>
+```html
+<p>Este es un párrafo de ejemplo.</p>
+```
