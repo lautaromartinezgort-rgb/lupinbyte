@@ -1,2 +1,1 @@
-# lupinbyte
-un proyecto
+#LupinByte#
